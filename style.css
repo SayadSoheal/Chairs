@@ -54,7 +54,6 @@ ul li a:hover {
   cursor: pointer;
 }
 
-/* header */
 header {
   height: 100vh;
   display: flex;
@@ -99,7 +98,7 @@ header {
   margin-bottom: 40px;
 }
 
-/* popularity */
+
 .popularity {
   display: flex;
   justify-content: flex-end;
@@ -121,7 +120,7 @@ header {
   font-family: sans-serif;
 }
 
-/* PRODUCTS */
+
 .products-heading {
   text-align: center;
   margin-top: 10rem;
@@ -204,7 +203,7 @@ header {
   margin-top: 20px;
 }
 
-/* why us */
+
 .why-us {
   display: flex;
   flex-wrap: wrap;
@@ -275,7 +274,7 @@ header {
   margin-top: 20px;
 }
 
-/* Features */
+
 .features {
   margin-top: 10rem;
   display: flex;
